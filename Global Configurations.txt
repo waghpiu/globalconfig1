@@ -1,20 +1,29 @@
-kalyani@itvedant.com
+GitHub connectivity (First project )(add to linkedin) 
 
-for desktop GitHub: ()
-for git : ( )
+C:\Priyanka (path where the folder Priyanka Waghela is created)
 
+for desktop GitHub: https://docs.github.com/en/desktop/installing-and-
+authenticating -to -github-desktop/installing -github -desktop
 
+for git : https://git -scm.com/download/win
 
-command prompt - github version -
- Global configaratio 
-git config -- global user.name"itvedant"
+command prompt - github version 
 
-git config -- global user.email"validemail"
-
+Global configurations 
+Steps:
+1) git config --global user.name"priyanka"
+2) git config --global user.email"priyankawaghela19952gmail.com"
+ 
 echo "# demo - session -1" >> README .md
-git init
-git and README .md
-git commit - m "first commit"
-git branch - M main
-git remot add origin 
-git push - u origin main
+3) git init
+4) git add .
+5) git commit -m "initial commit"    (initial or first)
+6) git branch -M main
+7) git remote add origin https://github.com/waghpiu/globalconfig1.git   (the link you'll get from repository scroll down copy 
+the link and add in here)
+8) git push -u origin main  
+-created the profile i have created the git profile
+-go to gits refresh and the page we have created will pop up
+
+how to use repository in git {google - git -side side of the corner click profile -your repository - new - }
+My first project in Git through repository is Globalcongig1
